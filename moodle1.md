@@ -16,3 +16,17 @@ Per avans de desampaquetar aquest arxiu hem de instal·lar el unzip amb la segue
 
 I ara fem la seguent comanda.
 
+![Selecció_004](https://user-images.githubusercontent.com/114423315/204152896-f28f43dd-92ee-4c16-845b-34897141b684.png)
+
+![image](https://user-images.githubusercontent.com/114423315/204153267-c27bbd8c-9a43-4a56-81a9-2adf98bade50.png)
+
+## I ara anem a crear el directori de fitxers.
+
+I ara crarem el moodledata dintre del directori /home:
+
+![image](https://user-images.githubusercontent.com/114423315/204153471-604376ab-edaa-4674-95f4-894fc77e3b3a.png)
+
+Aqui es pujaran tots els fitxer de moodle.
+
+## Configuracio de base de dades.
+
