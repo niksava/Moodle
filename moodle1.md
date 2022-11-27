@@ -8,3 +8,7 @@ Una vegada nos hem conectat a la meva maquina virtual hem de instal·lar el mood
 
 ![image](https://user-images.githubusercontent.com/114423315/204151789-b2ba1bd3-92d4-4ef4-8da2-858b8f8cf543.png)
 
+Per avans de desampaquetar aquest arxiu hem de instal·lar el unzip amb la seguent comanda:
+
+![image](https://user-images.githubusercontent.com/114423315/204152706-0503face-c5c6-45dd-964b-2952817361d4.png)
+
