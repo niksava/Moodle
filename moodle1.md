@@ -15,3 +15,4 @@ Per avans de desampaquetar aquest arxiu hem de instal·lar el unzip amb la segue
 ![image](https://user-images.githubusercontent.com/114423315/204152706-0503face-c5c6-45dd-964b-2952817361d4.png)
 
 I ara fem la seguent comanda.
+
