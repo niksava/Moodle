@@ -33,7 +33,43 @@ sudo mysql -u root -p
 
 # Instal·lació del PHP
 
+Per instal·lar el PHP hem fer la seguent comanda:
 
+sudo apt install php libapache2-mod-php php-mysql
+
+Una vegada ho tenim tot instal·lat hem de modificar un arxiu per a que el apache ens monstriguin el index.php en lloc de index.html aquesta es la comanda i el directori per modificar el arxiu.
+
+![image](https://user-images.githubusercontent.com/114423315/204345223-b76feb24-533e-4fad-abad-ea59100891f7.png)
+
+A de ser igual com aqui:
+
+![image](https://user-images.githubusercontent.com/114423315/204345370-391d1705-1ce5-4d31-851b-5474bda52ff9.png)
+
+En cas de modificar algo despres ho aurem de guardar amb Ctrl+X o Ctrl+O.
+
+Ja despres reinisiem el apache2, amb la seguent comanda:
+
+sudo service apache2 restart
+
+I comprobem el estat del apache2, amb la seguent comanda.
+
+sudo service apache2 status
+
+![image](https://user-images.githubusercontent.com/114423315/204345865-f50265f0-662a-483c-9ade-69d0c819fd1b.png)
+
+Ara modificarem una arxiu PHP i ficarem el seguent.
+sudo nano /var/www/html/index.php
+
+I dins del arxiu introduim el seguent.
+
+![image](https://user-images.githubusercontent.com/114423315/204346603-b4dafc7d-86d4-4c5d-9b8c-901b6045f809.png)
+
+![image](https://user-images.githubusercontent.com/114423315/204346705-67a94d8e-e1e5-4430-a958-690abb0d68e6.png)
+
+I amb aixo ho comprobem les versions de php instal·lat i si en general funciona el php.
+I ara com ho hem vist que funciona tot correctament ho de eliminar el fitxer per que aixo ho poden veure tots i aixo pot resultar perillos per a nosaltre per tant, ho eliminem amb la seguent comanda: 
+
+sudo rm  /var/www/html/index.php
 
 ![image](https://user-images.githubusercontent.com/114423315/204151549-c9d6de24-019c-4d3e-b0f6-7c3a16946252.png)
 
