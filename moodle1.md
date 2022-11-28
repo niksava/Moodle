@@ -30,3 +30,17 @@ Aqui es pujaran tots els fitxer de moodle.
 
 ## Configuracio de base de dades.
 
+Pero avans hem de tindre Mariadb instal·lat perque sino ens donara un error. Per tant ho instal·lem de la seguent manera.
+
+![image](https://user-images.githubusercontent.com/114423315/204299886-bd1d61c3-a6c4-49c6-ad7d-a666437109d7.png)
+
+Ja despres fer el seguent:
+
+![image](https://user-images.githubusercontent.com/114423315/204300171-313aefcd-8ead-4eb1-979f-e8903e317cdb.png)
+![image](https://user-images.githubusercontent.com/114423315/204300292-7570dd03-36b3-420c-a5d2-296db47da6f8.png)
+
+I ara crearem i configurarem una base de dades amb les seguents comandes.
+
+![image](https://user-images.githubusercontent.com/114423315/204300749-8be810b9-6b4f-4fe6-8cfd-d3a71e45afe5.png)
+
+# Configuració Moodle
