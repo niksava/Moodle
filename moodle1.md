@@ -112,3 +112,50 @@ I ara crearem i configurarem una base de dades amb les seguents comandes.
 
 # Configuració Moodle
 
+I ara anem a configurar el nostre Moodle.
+
+Per poder accedir al moodle ho faig de la seguent manera, pero com que ho he configurat el servidor per ssh he de ficar el seguent al navegador.
+
+![Selecció_010](https://user-images.githubusercontent.com/114423315/204351585-815e161f-cbcb-4e43-8bca-fa954a81f7a8.png)
+
+I sino fique (localhost) en lloc de la IP.
+Quan ho tinguesem triem el idiome que volem i fem clic seguent.
+
+Ara ens faltaria instal·lar el php curl que es de la seguent manera.
+
+![image](https://user-images.githubusercontent.com/114423315/204352883-05b8b7bb-441f-428f-b15d-561c91298835.png)
+
+Primera comanda:
+
+sudo apt install php7.3-curl
+
+![Selecció_011](https://user-images.githubusercontent.com/114423315/204352924-6b22213a-49b9-4f58-826a-ed1be3ac0c16.png)
+
+sudo apt install php7.3-zip
+
+![Selecció_012](https://user-images.githubusercontent.com/114423315/204353160-40c823d4-3692-4333-b654-f98171d84795.png)
+
+Fem un restart del apache2:
+
+![image](https://user-images.githubusercontent.com/114423315/204353577-9ce15b3d-0cec-4877-8779-f455d5a64a03.png)
+
+I ara a la seguent finestra hem de ficar el seguent aixo esta baix de tot.
+
+![image](https://user-images.githubusercontent.com/114423315/204354131-ffc48176-bf36-4a4a-913e-78adbf2c550d.png)
+
+Aquest es la carpeta que hem crear avans.
+
+![image](https://user-images.githubusercontent.com/114423315/204354632-10365401-1b73-431f-ba0b-d39ac22beb6e.png)
+
+I ara hem triem aquesta opcio i fem clic seguent.
+
+Una vegada hem arribat a aquesta finestra hem de escriure el usuari i la contrasenya la resta ho deixem tal qual com esta.
+
+![image](https://user-images.githubusercontent.com/114423315/204356310-42ec9210-acc1-4dbc-bdc5-f2c862cf3dd5.png)
+
+Hem de fer la comanda anterior
+
+I ens apareisera la seguent finestra ho aurem de fer seguent.
+
+![image](https://user-images.githubusercontent.com/114423315/204356638-6a10ba01-c0e2-49f7-99e4-90afe4d4ca0c.png)
+
