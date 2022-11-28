@@ -180,3 +180,11 @@ sudo service apache2 restart
 Ara anem ficar una altra contrasenya i les dades nessesaries.
 
 ![image](https://user-images.githubusercontent.com/114423315/204362285-aa500983-f924-4a31-816f-8ba1d9441ad8.png)
+
+I aqui tornem a ficar les nostres dades.
+
+![image](https://user-images.githubusercontent.com/114423315/204363176-b9fad785-e1a0-4b1d-9441-d72d48449a88.png)
+
+I ja ho tindriem tot.
+
+![image](https://user-images.githubusercontent.com/114423315/204363366-913c2fc9-95e3-4670-8666-2dabb92fce14.png)
