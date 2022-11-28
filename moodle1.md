@@ -44,3 +44,4 @@ I ara crearem i configurarem una base de dades amb les seguents comandes.
 ![image](https://user-images.githubusercontent.com/114423315/204300749-8be810b9-6b4f-4fe6-8cfd-d3a71e45afe5.png)
 
 # Configuració Moodle
+
