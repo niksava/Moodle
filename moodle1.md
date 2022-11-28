@@ -159,3 +159,24 @@ I ens apareisera la seguent finestra ho aurem de fer seguent.
 
 ![image](https://user-images.githubusercontent.com/114423315/204356638-6a10ba01-c0e2-49f7-99e4-90afe4d4ca0c.png)
 
+# Error 
+
+Ara quan ho reiniciessim ens surtira uns error que els solusionarem instalant-les extencións.
+
+![image](https://user-images.githubusercontent.com/114423315/204359680-97d9a701-c24f-4c41-9e17-0a212632458d.png)
+
+![image](https://user-images.githubusercontent.com/114423315/204359930-6e8bb1e1-2a4c-499c-989b-842d27807d91.png)
+
+![image](https://user-images.githubusercontent.com/114423315/204360142-ca93cb93-fcb7-491d-a193-8af3cca429de.png)
+
+![image](https://user-images.githubusercontent.com/114423315/204360299-a025ae1c-9a1b-4969-902c-3581d0a06c7c.png)
+
+![image](https://user-images.githubusercontent.com/114423315/204360424-6c860fa0-0e23-4810-b2f7-7b5b520effed.png)
+
+I quan ho tinguesim les extincion instalades reiniciem el apache2 i fem clic seguent.
+
+sudo service apache2 restart
+
+Ara anem ficar una altra contrasenya i les dades nessesaries.
+
+![image](https://user-images.githubusercontent.com/114423315/204362285-aa500983-f924-4a31-816f-8ba1d9441ad8.png)
