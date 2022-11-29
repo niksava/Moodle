@@ -185,6 +185,6 @@ I aqui tornem a ficar les nostres dades.
 
 ![image](https://user-images.githubusercontent.com/114423315/204363176-b9fad785-e1a0-4b1d-9441-d72d48449a88.png)
 
-I ja ho tindriem tot.
+I ja ho tindriem tot fet.
 
 ![image](https://user-images.githubusercontent.com/114423315/204363366-913c2fc9-95e3-4670-8666-2dabb92fce14.png)
