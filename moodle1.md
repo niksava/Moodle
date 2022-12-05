@@ -110,6 +110,10 @@ I ara crearem i configurarem una base de dades amb les seguents comandes.
 
 ![image](https://user-images.githubusercontent.com/114423315/204300749-8be810b9-6b4f-4fe6-8cfd-d3a71e45afe5.png)
 
+# IP Moodle
+
+![image](https://user-images.githubusercontent.com/114423315/205687090-cd228769-0cfe-4d0c-8961-0e56f892c3df.png)
+
 # Configuració Moodle
 
 I ara anem a configurar el nostre Moodle.
